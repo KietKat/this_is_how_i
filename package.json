@@ -1,8 +1,8 @@
 {
+  "homepage": "http://kietkat.github.io/my-app",
   "name": "this_is_how_i",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://kietkat.github.io/this_is_how_i",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
