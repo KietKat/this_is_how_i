@@ -1,21 +1,17 @@
 import AboutUs from './AboutUs/AboutUs';
-import Chef from './Chef/Chef';
-import FindUs from './Findus/FindUs';
+import CompSci from './CompSci/CompSci';
 import Footer from './Footer/Footer';
-import Gallery from './Gallery/Gallery';
+import DataSci from './DataSci/DataSci';
 import Header from './Header/Header';
-import Intro from './Intro/Intro';
-import Laurels from './Laurels/Laurels';
+import Math from './Math/Math';
 import SpecialMenu from './Menu/SpecialMenu';
 
 export {
   AboutUs,
-  Chef,
-  FindUs,
+  CompSci,
   Footer,
-  Gallery,
+  DataSci,
   Header,
-  Intro,
-  Laurels,
+  Math,
   SpecialMenu,
 };

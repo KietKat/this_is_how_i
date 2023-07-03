@@ -1,0 +1,29 @@
+.app__footer {
+    background-color: var(--color-black);
+    align-items: center;
+    position: relative;
+}
+
+.app__footer-logo img{
+    width: 300px;
+}
+.app__footer-icons {
+    margin-top: 0.5rem;
+}
+
+.app__footer-icons svg {
+    color: var(--color-white);
+    margin: 0.5rem;
+}
+
+.app__footer p {
+    margin-top: 0.5rem;
+    text-transform: none;
+}
+.app__footer-icons a{
+    align-items: center;
+    width: 80px;
+}
+.app__footer-icons p {
+    margin-bottom: 1rem;
+}

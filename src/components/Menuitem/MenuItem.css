@@ -7,14 +7,16 @@
 }
 
 .app__menuitem-head {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    width: 100%;
+    align-items: flex-start;
+    margin-top: 0.2rem;
 }
 
 .app__menuitem-sub {
-    width: 100%;
-    margin-top: 0.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.4rem;
 }
 
 .app__menuitem-name {
@@ -30,7 +32,7 @@
     margin: 0 1rem;
 }
 
-.app__menuitem-price {
+.app__menuitem-date {
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
