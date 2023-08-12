@@ -9,12 +9,12 @@ const AboutUs = () => (
     <div className='app__aboutus-content flex__center'>
 
       <div className='app__aboutus-content_about'>
-        <h1 className= "headtext__cormorant">About me</h1>
+        <h1 className= "headtext__cormorant">About Kyle</h1>
         <p className='p__opensans'> 
-        My name is Kiet Nguyen, or Kyle. By the time this page is made, I am 3rd year Data Science major at Arizona University. 
-        I grow an interest in logic field to explain everything in my own words. What brought me to this field was actually a childhood nightmare, 
-        where I was trapped in a 2-escape room. Regardless of my choices, I fell downward to a similar room and could never escape (think of it as the binary tree with infinite height). 
-        Weird, I know!
+        My name is Kiet Nguyen, or Kyle. By the time this page is made, I am 3rd year Data Science major at Arizona State
+        University. I am working as a data analyst (short call for my role) for a project named "Starbucks Global Academy" at
+        EdPlus, ASU. Besides that, I am also an officer at ASU's Software Development Association, which was great for being
+        surrounded by so bright people (absolutely no peer pressure :)).
         </p>
       </div>
 
@@ -23,11 +23,9 @@ const AboutUs = () => (
       </div>
 
       <div className='app__aboutus-content_history'>
-        <h1 className= "headtext__cormorant">TIHI.U</h1>
+        <h1 className= "headtext__cormorant">About Kunj</h1>
         <p className='p__opensans'>
-          My goal is to become a software engineer full-stack after finishing Bachelor's, and I decided to make "TIHI.U" as an updating project for front-end skils. 
-          I hate to admit that I don't have very fashionable eyes, so I stick with a monotone background and some complementatry colors.  
-          This webpage will mainly focus on Computer Science, Data Science, Mathematics materials, from either ASU, UCB (dream grad school) or other sources!
+
         </p>
       </div>
 

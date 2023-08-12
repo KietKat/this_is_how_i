@@ -11,7 +11,8 @@ const Header = () => (
       <SubHeading title="A Personal Webpage" />
       <h1 className="app__header-h1">This Is How I... Understand</h1>
       <p className='p__opensans' style={{ margin: '2rem 0' }}>
-        "TIHI.U", in short, is where I note down academic material, intepreted into "Kyle" language and understanding, as an Data Science student at Arizona State University. 
+        "TIHI.U", in short, is where we note down academic material and researches, interpreted into a less intimidating language,
+         as two Data Science students at Arizona State University.
       </p>
     </div>
 

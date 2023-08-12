@@ -15,8 +15,8 @@ const Footer = () => (
 
     <div className = "app__footer-icons">
         <a href = "https://github.com/KietKat"><FiGithub/></a>
-        <a href = "https://www.linkedin.com/in/kiet-nguyen-2oo1/"><FiLinkedin/></a>
         <p className = "p__opensans" fontsize = {27} color='var(--color-white)'><FiMail/>tnguy260@asu.edu</p>
+        <p className = "p__opensans" fontsize = {27} color='var(--color-white)'><FiMail/>kunjvpatel321@gmail.com</p>
     </div>
   </div>
 );

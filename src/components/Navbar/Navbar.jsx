@@ -31,9 +31,9 @@ const Navbar = () => {
       </ul>
 
       <div className ="app__navbar-login">
-        <a href= "https://www.linkedin.com/in/kiet-nguyen-2oo1/" className= "p__opensans">LinkedIn</a>
+        <a href= "https://www.linkedin.com/in/kiet-nguyen-2oo1/" className= "p__opensans">Kyle</a>
         <div/>
-        <a href= "https://kietkat.github.io/Portfolio/" className= "p__opensans">Portfolio</a>
+        <a href= "https://www.linkedin.com/in/kunj-patel7/" className= "p__opensans">Kunj</a>
       </div>
 
       <div className = "app__navbar-smallscreen">
