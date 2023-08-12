@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/this_is_how_i/static/css/main.13f08056.css",
+    "main.js": "/this_is_how_i/static/js/main.2aa1de97.js",
+    "static/media/bg.png": "/this_is_how_i/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/dscat.jpg": "/this_is_how_i/static/media/dscat.ee558d5857523f495e3a.jpg",
+    "static/media/mathcat.jpg": "/this_is_how_i/static/media/mathcat.83da6ff278eab0cb712f.jpg",
+    "static/media/cscat.jpg": "/this_is_how_i/static/media/cscat.8740b0493b9d979bc4f8.jpg",
+    "static/media/TIHIU.jpg": "/this_is_how_i/static/media/TIHIU.b766b0e52caf2cd49446.jpg",
+    "static/media/ba bem.jpg": "/this_is_how_i/static/media/ba bem.8a3edbfda25612be870d.jpg",
+    "static/media/trident.jpg": "/this_is_how_i/static/media/trident.b72ffbc9c5f806cf7875.jpg",
+    "index.html": "/this_is_how_i/index.html",
+    "main.13f08056.css.map": "/this_is_how_i/static/css/main.13f08056.css.map",
+    "main.2aa1de97.js.map": "/this_is_how_i/static/js/main.2aa1de97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f08056.css",
+    "static/js/main.2aa1de97.js"
+  ]
+}
